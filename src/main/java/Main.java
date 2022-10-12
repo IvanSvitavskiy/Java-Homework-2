@@ -19,6 +19,6 @@ public class Main {
         v1.add(v2).print();
         v1.subtract(v2).print();
         System.out.println(v1.equals(v2));
-        //1
+        //12
     }
 }
